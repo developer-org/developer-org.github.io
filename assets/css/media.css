@@ -1,5 +1,5 @@
 @media only screen and (max-width: 1750px){
-    .about-page .card-about-item.one img {
+    .about-page .card-about-item.one img, .card-about-item.one .card-about-item-vector {
         width: 65%;
     }
     .about-info .about-title h2 {
@@ -213,7 +213,7 @@
     .about-page .card-about-item.one {
         padding: 50px 20px 25px 20px;
     }
-    .about-page .card-about-item.one img {
+    .about-page .card-about-item.one img, .card-about-item.one .card-about-item-vector {
         right: -35px;
     }
     .about-page .card-about-item.two, .about-page .card-about-item.three {
@@ -1248,6 +1248,10 @@
     }
     .about-page .card-about-item.one img {
         width: 75%;
+    }
+    .card-about-item.one .card-about-item-vector{
+        width: 60%;
+        right: -10px;
     }
     .about-page .box-about, .about-page .card-about-left {
         gap: 10px;

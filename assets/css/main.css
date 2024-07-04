@@ -2851,7 +2851,7 @@ input {
     }
 }
 
-.card-about-item.one::before, .card-about-item.one img {
+.card-about-item.one::before, .card-about-item.one img, .card-about-item.one .card-about-item-vector {
     content: "";
     position: absolute;
     width: auto;
@@ -2861,6 +2861,15 @@ input {
     top: 0%;
     left: 45%;
     transform: scale(0.8);
+}
+
+.card-about-item.one .card-about-item-vector{
+    left: inherit;
+    right: -50px;
+    width: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 @media (max-width: 767px){
