@@ -2884,7 +2884,7 @@ input {
     }
 }
 
-.card-about-item.two::before, .card-about-item.two img {
+.card-about-item.two::before, .card-about-item.two img, .card-about-item.two .card-about-item-vector {
     content: "";
     position: absolute;
     width: 70%;
@@ -2894,6 +2894,12 @@ input {
     top: -75px;
     left: 35%;
     transform: scale(0.8);
+}
+
+.card-about-item.two .card-about-item-vector{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 @media (max-width: 1200px){
@@ -2908,7 +2914,7 @@ input {
     }
 }
 
-.card-about-item.three::before, .card-about-item.three img {
+.card-about-item.three::before, .card-about-item.three img, .card-about-item.three .card-about-item-vector {
     content: "";
     position: absolute;
     width: 40%;
@@ -2918,6 +2924,12 @@ input {
     top: -75px;
     left: 55%;
     transform: scale(0.8);
+}
+
+.card-about-item.three .card-about-item-vector{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 }
 
 @media (max-width: 1200px){

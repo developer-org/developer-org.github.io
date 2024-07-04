@@ -248,14 +248,14 @@
         left: 20%;
         transform: none;
     }
-    .card-about-item.two::before, .card-about-item.two img {
+    .card-about-item.two::before, .card-about-item.two img, .card-about-item.two .card-about-item-vector {
         width: 50%;
         height: 100%;
         top: -50px;
         left: 45%;
         transform: inherit;
     }
-    .card-about-item.three::before, .card-about-item.three img {
+    .card-about-item.three::before, .card-about-item.three img, .card-about-item.three .card-about-item-vector {
         width: 35%;
         height: 100%;
         top: -40px;
@@ -504,14 +504,14 @@
         color: #ABABAB;
         margin-top: 15px;
     }
-    .about-page .card-about-item.two::before, .about-page .card-about-item.two img {
+    .about-page .card-about-item.two::before, .about-page .card-about-item.two img, .about-page .card-about-item.two .card-about-item-vector {
         width: 45%;
         height: 100%;
         top: -50px;
         left: 45%;
         transform: inherit;
     }
-    .about-page .card-about-item.three::before, .about-page .card-about-item.three img {
+    .about-page .card-about-item.three::before, .about-page .card-about-item.three img, .about-page .card-about-item.three .card-about-item-vector {
         width: 30%;
         height: 100%;
         top: -40px;
@@ -1260,14 +1260,14 @@
         width: calc(50% - 21px) !important;
         padding: 35px 8px 12px 8px;
     }
-    .about-page .card-about-item.two::before, .about-page .card-about-item.two img {
+    .about-page .card-about-item.two::before, .about-page .card-about-item.two img, .about-page .card-about-item.two .card-about-item-vector {
         width: 45%;
         height: 50%;
         top: 0;
         left: 45%;
         transform: inherit;
     }
-    .about-page .card-about-item.three::before, .about-page .card-about-item.three img {
+    .about-page .card-about-item.three::before, .about-page .card-about-item.three img, .about-page .card-about-item.three .card-about-item-vector{
         width: 30%;
         height: 45%;
         top: 3px;
