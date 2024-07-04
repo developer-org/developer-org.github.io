@@ -1,0 +1,1387 @@
+@media only screen and (max-width: 1750px){
+    .about-page .card-about-item.one img {
+        width: 65%;
+    }
+    .about-info .about-title h2 {
+        font-size: 53px;
+        line-height: 58px;
+    }
+    .about-page .about-info-dop .about-title h2 span {
+        font-size: 53px;
+        line-height: 58px;
+    }
+    .about-info .about-title-block {
+        gap: 30px;
+    }
+}
+@media only screen and (max-width: 1700px){
+    .pokraska_grid_item:nth-child(2):after{
+        height: 60%;
+    }
+}
+@media only screen and (max-width: 1500px){
+    .drob-info-grid {
+        align-items: inherit;
+    }
+    .drob-description {
+        width: calc(50% - 65px);
+    }
+    .drob-description .drob_title {
+        font-size: 32px;
+        margin-top: 20px;
+    }
+    .drob-description p {
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .content_title .h2_title{
+        font-size: 46px;
+        line-height: 45px;
+    }
+    .content_title .h2_title span{
+        font-size: 46px;
+        line-height: 45px;
+    }
+    .grid-title_custom{
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .grid-title_custom span{
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .grid-desc_custom p{
+        font-size: 19px;
+        line-height: 30px;
+    }
+    .usefull_image img{
+        height: 705px;
+        width: 775px;
+    }
+    .usefull_wrap .usefull-text {
+        position: relative;
+        z-index: 1;
+    }
+    .proizvodstvo-tile {
+        padding-top: 90px;
+        padding-bottom: 90px;
+        padding-left: 60px;
+        padding-right: 45px;
+    }
+    .proizvodstvo-tile .drob_title {
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 42px;
+    }
+    .proizvodstvo-tile p {
+        line-height: 36px;
+        margin-top: 15px;
+        font-size: 25px;
+    }
+    .proiz {
+        position: relative;
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0 20px;
+        width: inherit;
+    }
+    .about-info.proiz .h2_title {
+        font-size: 52px;
+        line-height: 60px;
+    }
+    .proiz .usefull_wrap {
+        grid-template-columns: 1fr 1fr;
+    }
+    .proiz .usefull_list ul::before{
+        height: 95%;
+    }
+    .proiz_bg {
+        top: -50px;
+    }
+    .proiz_vector {
+        top: 0px;
+    }
+    .proizvodstvo-page .solutin_info_grid{
+        margin-top: 55px;
+    }
+    .proizvodstvo-page .work_solution_wrapper .solutin_info_grid .info_grid_text{
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .box-owl-fot .fot-owl .item {
+        height: 550px;
+        width: 100%;
+    }
+    .fot-owl.owl-carousel .owl-nav button.owl-prev{
+        left: 12px;
+    }
+    .fot-owl.owl-carousel .owl-nav button.owl-next{
+        right: 12px;
+    }
+    .box-owl-fot{
+        padding-top: 0;
+    }
+    .our-perpheps-page .peherps_count {
+        font-size: 56px;
+    }
+    .our-perpheps-page .peherps_border {
+        width: 133px;
+        height: 5px;
+    }
+    .our-perpheps-page .peherps_title {
+        font-size: 40px;
+    }
+    .our-perpheps-page .preim .svg-item{
+        width: 62px;
+        height: 62px;
+    } 
+    .our-perpheps-page .preim .svg-item svg{
+        width: 100%;
+        height: 100%;
+    }  
+    .our-perpheps-page .preim .content-block{
+        border-radius: 20px;
+        padding: 20px;
+    }
+    .our-perpheps-page .preim .block-title{
+        font-family: Gilroy;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 32px;
+        margin-bottom: 20px;
+    }
+    .our-perpheps-page .text-block {
+        font-size: 20px;
+        line-height: 24px;
+    }
+    .our-perpheps-page .preim .content-block {
+        height: 255px;
+    }
+    .our-perpheps-page .preim .grid{
+        width: calc(100% - 40px);
+        padding: 0 20px;
+        gap: 20px;
+    }
+    .delivery-page .content_title h2{
+        font-size: 46px;
+        line-height: 58px;
+    }
+    .delivery-page .content_title h2 span{
+        font-size: 46px;
+        line-height: 58px;
+    }
+    .delivery-page .delivery_grid_wrapper.deliv{
+        margin-top: 55px;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+    .delivery-page .delivery_count {
+        font-size: 30px;
+        line-height: 32px;
+        width: 50px;
+        height: 50px;
+        border-radius: 10px;
+    }
+    .delivery-page .grid-desc {
+        font-size: 16px;
+        line-height: 21px;
+        margin-top: 23px;
+    }
+    .delivery-page .delivery_grid_item{
+        padding: 25px 20px;
+        height: 255px;
+    }
+    .delivery-page .delivery_grid_item.red .grid-desc{
+        margin-top: 0;
+        height: 100%;
+    }
+    .delivery-page .delivery_grid_item.red .grid-desc .map{
+        height: 100%;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 35px;
+        line-height: 39px;
+    }
+    .about-page .about-title-text p {
+        font-size: 17px;
+        font-weight: 500;
+        line-height: 23px;
+    }
+    .about-page .card-about-item p {
+        margin-top: 13px;
+    }
+    .about-page .card-about-item.one {
+        padding: 50px 20px 25px 20px;
+    }
+    .about-page .card-about-item.one img {
+        right: -35px;
+    }
+    .about-page .card-about-item.two, .about-page .card-about-item.three {
+        width: calc(50% - 50px);
+        padding: 105px 20px 25px 20px;
+    }
+    .about-page .box-about, .about-page .card-about-left {
+        gap: 20px;
+    }
+    .about-page .abb .about-text p {
+        font-size: 17px;
+        line-height: 23px;
+        margin-bottom: 30px;
+    }
+    .about-page .card-about-right {
+        padding: 50px 20px;
+    }
+    .card-about-right::before{
+        display: none;
+    }
+    .card-about-right h2 {
+        padding-top: 0px;
+    }
+    .card-about-right p {
+        margin-top: 13px;
+    }
+    .card-about-right__image {
+        width: 90%;
+        height: 90%;
+        background-size: contain;
+        top: 47%;
+        left: 20%;
+        transform: none;
+    }
+    .card-about-item.two::before, .card-about-item.two img {
+        width: 50%;
+        height: 100%;
+        top: -50px;
+        left: 45%;
+        transform: inherit;
+    }
+    .card-about-item.three::before, .card-about-item.three img {
+        width: 35%;
+        height: 100%;
+        top: -40px;
+        left: 55%;
+        transform: inherit;
+    }
+    .about-info .about-title h2 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .about-info-dop {
+        width: inherit;
+    }
+    .about-page .about-bbx {
+        gap: 30px;
+    }
+    .about-page .about-description-img {
+        min-width: 488px;
+    }
+    .about-page .about-description ul {
+        margin-top: 0;
+    }
+    .main_slider .item{
+        gap: 70px;
+    }
+    .main_slider.owl-carousel .owl-nav button.owl-next svg, .main_slider.owl-carousel .owl-nav button.owl-prev svg {
+        width: 84px;
+        height: 85px;
+    }
+}
+@media only screen and (max-width: 1350px){
+    .usefull_image img {
+        height: 505px;
+        width: 575px;
+        bottom: 35px;
+    }
+    .jobs_inf {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .proizvodstvo-tile p {
+        line-height: 32px;
+        margin-top: 15px;
+        font-size: 22px;
+    }
+    .our-perpheps-page .content-block .grid-logo{
+        width: 80%;
+    }
+    .main_slider .item .item-inner:first-child .slider_img {
+        height: 350px;
+    }
+    .main_slider .item .item-inner:nth-child(2) .slider_img {
+        height: 255px;
+    }
+    .main_slider .item .item-inner:last-child .slider_img {
+        height: 350px;
+    }
+    .frezer.specific .usefull_image img{
+        height: 705px;
+        width: 775px;
+        bottom: -55px;
+    }
+    .frezer.specific {
+        margin-bottom: 80px;
+    }
+}
+@media only screen and (max-width: 1300px){
+    .about-info .about-title h2 {
+        font-size: 42px;
+        line-height: 55px;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 42px;
+        line-height: 55px;
+    }
+}
+@media only screen and (max-width: 1200px){
+    .info_buttons .header_form_button, .info_buttons .header_number{
+        padding: 18px 21px 18px 21px;
+        border-radius: 10px;
+    }
+    .info_buttons {
+        width: 220px;
+    }
+    .grid-title_custom{
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .grid-title_custom span{
+        font-size: 30px;
+        line-height: 32px;
+    }
+    .grid-desc_custom p{
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .company_advantages_item_custom{
+        padding: 30px 20px;
+    }
+    .usefull_list li {
+        padding-bottom: 30px;
+        padding-top: 5px;
+        font-size: 20px;
+        width: 40%;
+    }
+    .proizvodstvo-tile{
+        padding: 60px 20px 0 20px;
+    }
+    .proizvodstvo-tile .drob_info_grid_item1 {
+        padding: 40px !important;
+    }
+    .proizvodstvo-tile .drob_border::before {
+        width: 200px;
+        margin-top: 0px;
+    }
+    .proizvodstvo-tile .drob_info_item_image {
+        min-height: 390px;
+    }
+    .proizvodstvo-tile .drob_info_grid1.drone {
+        margin-bottom: 15px;
+    }
+    .proizvodstvo-tile .drob_title {
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 20px;
+        margin-bottom: 5px;
+    }
+    .proizvodstvo-tile p {
+        line-height: 28px;
+        margin-top: 15px;
+        font-size: 18px;
+    }
+    .proiz .usefull_list li {
+        width: 100%;
+        padding-bottom: 30px;
+        padding-top: 5px;
+        font-size: 20px;
+        position: relative;
+        z-index: 1;
+    }
+    .about-info.proiz .h2_title {
+        font-size: 46px;
+        line-height: 54px;
+    }
+    .about-info.proiz .h2_title span{
+        font-size: 46px;
+        line-height: 45px;
+    }
+    .proiz_bg {
+        top: 0;
+        right: -310px;
+        width: 795px;
+        height: 795px;
+    }
+    .proiz_vector {
+        top: 110px;
+        right: 70px;
+        width: 510px;
+        height: 680px;
+    }
+    .proizvodstvo-page .work_solution_wrapper p{
+        font-size: 24px;
+        line-height: 31px;
+    }
+    .proizvodstvo-page .work_solution_wrapper .content_title h2{
+        font-size: 46px;
+        line-height: 45px;
+    }
+    .proizvodstvo-page .solutin_info_grid {
+        margin-top: 35px;
+    }
+    .proizvodstvo-page .work_solution_wrapper .content_title h2 {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .proizvodstvo-page .work_solution_wrapper p {
+        font-size: 14px;
+        line-height: 19px;
+        margin-top: 15px;
+    }
+    .proizvodstvo-page .work_solution_wrapper p br{
+        display: none;
+    }
+    .proizvodstvo-page .solutin_info_grid {
+        margin-top: 25px;
+    }
+    .proiz{
+        margin-bottom: 30px;
+    }
+    .box-owl-fot .fot-owl {
+        width: 100%;
+    }
+    .box-owl-fot{
+        width: calc(100% - 40px);
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 75px;
+    }
+    .fot-owl.owl-carousel .owl-nav button.owl-prev {
+        left: 30px;
+    }
+    .our-perpheps-page .text-block {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .our-perpheps-page .preim .block-title {
+        font-size: 23px;
+        line-height: 28px;
+    }
+    .our-perpheps-page .preim .content-block {
+        height: 240px;
+    }
+    .delivery-page .delivery_grid_item {
+        height: 215px;
+    }
+    .about-info .about-title h2 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 46px;
+        font-weight: 600;
+        line-height: 46px;
+    }
+    .about-page .abb .about-text p {
+        font-size: 26px;
+        line-height: 35px;
+        margin-bottom: 45px;
+    }
+    .about-page .card-about-item h2 {
+        font-family: Gilroy;
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 27px;
+        text-align: left;
+    }
+    .about-page .card-about-item p {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        color: #ABABAB;
+        margin-top: 15px;
+    }
+    .about-page .card-about-item.two::before, .about-page .card-about-item.two img {
+        width: 45%;
+        height: 100%;
+        top: -50px;
+        left: 45%;
+        transform: inherit;
+    }
+    .about-page .card-about-item.three::before, .about-page .card-about-item.three img {
+        width: 30%;
+        height: 100%;
+        top: -40px;
+        left: 55%;
+        transform: inherit;
+    }
+    .about-page .card-about-right {
+        width: calc(100% - 40px);
+    }
+    .about-page .card-about-right h2 {
+        font-size: 25px;
+        font-weight: 600;
+        line-height: 27px;
+        text-align: left;
+        padding-top: 20px;
+    }
+    .about-page .card-about-right {
+        padding: 50px 20px 25px 20px;
+    }
+    .about-page .card-about-right h2 {
+        padding-top: 0px;
+    }    
+    .about-page .card-about-right p {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 19px;
+        text-align: left;
+        margin-top: 13px;
+    }
+    .about-page .card-about-right__image {
+        width: 25%;
+        height: 90%;
+        background-size: contain;
+        top: 30%;
+        left: inherit;
+        right: 0;
+        transform: none;
+    }
+    .about-page .about-title-text p {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 30px;
+    }
+    .about-page .about-description-img {
+        height: 320px;
+    }
+    .about-page .about-info-dop {
+        margin-left: 0;
+        margin-right: 0;
+        padding: 0 20px;
+        margin-top: 20px;
+    }
+    .about-page .about-info .about-title h2 {
+        font-size: 46px;
+        line-height: 46px;
+    }
+    .about-page .mob {
+        padding: 15px 20px;
+    }
+    .about-page .about-bbx {
+        gap: 40px;
+        padding: 0 20px;
+        width: calc(100% - 40px);
+    }
+    .main_slider .item{
+        gap: 60px;
+    }
+    .main_slider.owl-carousel .owl-nav button.owl-next svg, .main_slider.owl-carousel .owl-nav button.owl-prev svg {
+        width: 54px;
+        height: 85px;
+    }
+    .main_slider {
+        margin-top: 0px;
+    }
+}
+@media only screen and (max-width: 1150px){
+
+}
+@media only screen and (max-width: 1080px){
+    .drob-info-grid {
+        flex-wrap: wrap;
+    }
+    .drob-description, .drob-image {
+        width: 100%;
+        min-height: inherit;
+    }
+    .drob-image img, .drob-image{
+        height: 360px !important;
+    }
+    .frezer-about-info-dop .about-title-text p{
+        display: block;
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .main_slider .item {
+        flex-direction: row;
+        align-items: inherit;
+        justify-content: space-between;
+        flex-wrap: inherit;
+    }
+}
+@media only screen and (max-width: 991px){
+    .frezer-about-info-dop .about-title-text p {
+        margin-bottom: 20px;
+    }
+    body .obrabotka_wrapper .jobs_inf {
+        font-size: 20px;
+        line-height: 28px;
+        text-align: left;
+        margin-top: 20px;
+    }
+    .usefull_image img{
+        display: none;
+    }
+    .usefull_image_mob{
+        position: absolute;
+        right: 0;
+        bottom: 35px;
+        display: block;
+        width: 458px;
+        height: 458px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .usefull_list li {
+        width: 100%;
+        position: relative;
+        z-index: 1;
+    }
+    .proizvodstvo-tile .drob_info_grid_item1 {
+        padding: 25px !important;
+    }
+    .proizvodstvo-tile .drob_info_item_image {
+        min-height: 350px;
+    }
+    .proiz_bg {
+        display: none;
+    }
+    .proiz_vector {
+        display: none;
+    }
+    .proiz .usefull_wrap {
+        grid-template-columns: 1fr;
+    }
+    .proiz .usefull_list li {
+        width: inherit;
+    }
+    .about-info.proiz .h2_title {
+        font-size: 34px;
+        line-height: 48px;
+    }
+    .about-info.proiz .h2_title span {
+        font-size: 34px;
+        line-height: 38px;
+    }
+    .proiz .usefull_wrap{
+        margin-top: 0;
+    }
+    .proiz .usefull_image_mob {
+        right: -30px;
+        bottom: 10px;
+        width: 500px;
+        height: 500px;
+    }
+    .our-perpheps-page .peherps_title {
+        font-size: 30px;
+    }
+    .our-perpheps-page .peherps_desc p {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .delivery-page .delivery_grid_wrapper.deliv {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .delivery-page .content_title h2 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .delivery-page .content_title h2 span {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .delivery-page .delivery_wrapper-dostavka{
+        padding-bottom: 80px;
+    }
+    .delivery-page .delivery_grid_item.red {
+        margin-top: -20px;
+        margin-bottom: 20px;
+    }
+    .about-info .about-title h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 36px;
+        font-weight: 600;
+        line-height: 46px;
+    }
+    .about-page .about-info {
+        width: calc(100% - 40px);
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .about-page .about-info {
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+    .main_slider .item{
+        gap: 20px !important;
+        flex-wrap: wrap;
+        justify-content: inherit;
+    }
+    .main_slider .item .item-inner{
+        width: calc(50% - 10px) !important;
+    }
+    .main_slider .item .item-inner:last-child{
+        width: 100% !important;
+    }
+    .main_slider .slider_link {
+        font-size: 23px;
+    }
+    .main_slider .item .item-inner:first-child .slider_img {
+        height: 375px;
+    }
+    .main_slider .item .item-inner:nth-child(2) .slider_img {
+        height: 375px;
+    }
+}
+@media only screen and (max-width: 767px){
+    .card-front, .card-back, .front-8 {
+        padding: 15px 10px 20px 10px;
+        border-radius: 10px;
+    }
+    .card-front::before {
+        border-radius: 10px;
+    }
+    .card-count {
+        font-size: 15px;
+    }
+    .cart-title {
+        font-size: 11px;
+        line-height: 12px;
+        font-weight: 500 !important;
+    }
+    .card-link{
+        margin-bottom: 5px;
+    }
+    .cart-sub {
+        font-size: 9px;
+        line-height: 11px;
+    }
+    .work_card_title br{
+        display: none;
+    }
+    .work_wrapper {
+        gap: 40px 17px;
+    }
+    .front-mini, .front-mini .card-top-wrapper > img {
+        border-radius: 20px;
+    }
+    .front-mini .card-link {
+        left: 7%;
+        top: 8%;
+    }
+    .cart-title-mini {
+        bottom: 15%;
+    }
+    .card-mini_form_button{
+        border-radius: 10px;
+    }
+    .card-mini_form_button{
+        font-size: 16px;
+    }
+    .work_item.large h2 {
+        font-size: 25px;
+        line-height: 24px;
+        margin-top: 0;
+    }
+    .index h2, .index .header_into_text{
+        left: 20px;
+        width: calc(100% - 40px);
+    }
+    .index .header_into_text h1{
+        font-size: 28px;
+    }
+    .info_text h1 {
+        font-size: 25px;
+        left: 0;
+    }
+    .header_form_button {
+        padding: 23px 20px;
+        font-size: 16px;
+    }
+    .header_number {
+        padding: 21px 17px;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .index .header_into_text{
+        bottom: 80px;
+    }
+    .slider_content {
+        margin-top: 20px;
+    }
+    .front-mini, .front-mini .card-top-wrapper > img {
+        height: 230px;
+        object-fit: cover;
+    }
+    .card-mini_form_button {
+        margin-top: 20px;
+    }
+    .form_desc {
+        margin-top: 12px;
+    }
+    .form-container {
+        margin-top: 17px;
+    }
+    .form-confluence{
+        font-size: 13px;
+        margin-top: 8px;
+    }
+    .footer_mail a {
+        line-height: 20px;
+    }
+    .footer_address_1 svg, .footer_address_2 svg {
+        margin-right: 13px;
+        min-width: 15px;
+    }
+    .footer_mail{
+        margin-top: 20px;
+    }
+    .footer_mail svg {
+        margin-right: 13px;
+        width: 15px;
+        min-width: 15px;
+    }
+    .footer_address_1, .footer_address_2 {
+        font-size: 12px;
+    }
+    .footer_address_1{
+        margin-top: 10px;
+    }
+    .footer_time_work_1 p, .footer_time_work_2 p {
+        margin-top: 15px;
+    }
+    .footer_time_work_1 .work_time, .footer_time_work_2 .work_time{
+        margin-top: 8px;
+    }
+    .footer_socials{
+        margin-top: 5px;
+    }
+    .footer_link_wrap {
+        margin-top: 5px;
+    }
+    .footer_confluence a {
+        font-size: 13px;
+        font-weight: 500;
+    }
+    .footer_confluence {
+        padding: 12px 16px 12px 16px;
+    }
+    .footer .link ul li a{
+        font-size: 15px;
+        line-height: 17px;
+    }
+    .footer_logo {
+        margin-top: auto;
+    }
+    .info_buttons{
+        width: 100%;
+    }
+    .drob-image img, .drob-image{
+        height: 220px !important;
+        border-radius: 20px;
+    }
+    .drob-info-grid{
+        gap: 0;
+    }
+    .drob-description .drob_title {
+        margin-top: 5px;
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .drob-description p {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 21px;
+    }
+    .sverlenie .drob-description{
+        padding: 10px 10px 15px 10px;
+        background: none;
+    }
+    .sverlenie .drob-image{
+        display: none;
+    }
+    .sverlenie{
+        position: relative;
+    }
+    .sverlenie::before{
+        content: "";
+        z-index: -1;
+        width: 280px;
+        height: 350px;
+        background-image: url(../img/sverlenie/image_32.jpg);
+        background-size: cover;
+        position: absolute;
+        background-repeat: no-repeat;
+        right: -2.1%;
+        top: 16.6%;
+        transform: scale(1.45);
+        filter: opacity(0.5);
+    }
+    .frezer-about-info-dop .about-title-text p {
+        font-size: 16px;
+        margin-top: 0;
+    }
+    .content_title .h2_title {
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .content_title .h2_title br{
+        display: block;
+    }
+    .content_title .h2_title span{
+        font-size: 25px;
+        line-height: 24px;
+    }
+    .company_advantages_grid_custom{
+        margin-top: 20px;
+        gap: 15px;
+    }
+    .company_advantages_item_custom{
+        border-radius: 20px;
+    }
+    .grid-title_custom{
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .grid-title_custom span{
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .grid-desc_custom p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+    .grid-desc_custom{
+        margin-top: 10px;
+    }
+    .slider_content_wrapper,
+    .services_wrapper,
+    .work_cheme_wrapper,
+    .footer,
+    .work_solution_wrapper,
+    .advantages_wrapper,
+    .main_content_wrapper {
+        padding: 40px 20px;
+    }
+    .pokraska_grid_item:nth-child(2):after {
+        height: 70%;
+        right: -15px;
+        bottom: -30px;
+        background-position: left;
+    }
+    .pokraska-operation .pokraska_grid_item {
+        overflow: hidden;
+    }
+    body .obrabotka_wrapper .jobs_inf {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+    body .obrabotka_wrapper .jobs_inf br{
+        display: none;
+    }
+    .usefull_wrap .usefull-text {
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .usefull_list li {
+        font-size: 15px;
+        padding-left: 30px;
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+    .usefull_list li::before {
+        width: 20px;
+        height: 20px;
+        background-position: center;
+        background-size: contain;
+    }
+    .usefull_list ul::before {
+        left: 9px;
+    }
+    .usefull_list ul{
+        margin-top: 15px;
+    }
+    .usefull_image_mob {
+        position: absolute;
+        right: -95px;
+        bottom: 20px;
+        display: block;
+        width: 300px;
+        height: 300px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .proizvodstvo-tile {
+        padding: 40px 20px 0 20px;
+    }
+    .proizvodstvo-tile .drob_info_item_image {
+        min-height: 215px;
+    }
+    .proizvodstvo-tile .drob_border::before {
+        width: 120px;
+    }
+    .proizvodstvo-tile .drob_title {
+        font-size: 15px;
+        line-height: 16px;
+        margin-top: 10px;
+        margin-bottom: 0
+    }
+    .proizvodstvo-tile p {
+        line-height: 17px;
+        margin-top: 10px;
+        font-size: 12px;
+    }
+    .drob_border::before {
+        border: 1px solid red;
+    }
+    .proizvodstvo-tile .drob_info_grid1.drone{
+        display: flex;
+    }
+    .proizvodstvo-tile .drob_info_grid1.drone .drob_info_item_image{
+        width: 45%;
+        background-position: right;
+    }
+    .proizvodstvo-tile .drob_info_grid1.drone .drob_info_grid_item1{
+        width: 55%;
+        padding: 15px !important;
+    }
+    .proizvodstvo-tile .drob_info_grid_item1{
+        padding: 15px !important;
+    }
+    .proizvodstvo-tile .drtwo .drob_info_grid_item1 .drob_border::before{
+        width: 100px;
+    }
+    .work_solution_wrapper{
+        position: relative;
+    }
+    .work_solution_wrapper .solutin_info_grid::before {
+        margin-top: -160px !important;
+    }
+    .work_solution_wrapper .solutin_info_grid::before {
+        left: -20%;
+        margin-top: -186px;
+        transform: scale(0.7);
+        width: 155%;
+        display: block;
+        height: 125%;
+    }
+    .proiz .usefull_list li {
+        font-size: 15px;
+        padding-left: 30px;
+        padding-top: 0;
+        padding-bottom: 20px;
+    }
+    .proiz .usefull_image_mob {
+        width: 400px;
+        height: 400px;
+    }
+    .about-info.proiz .h2_title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .about-info.proiz .h2_title span {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .about-info.proiz .h2_title br{
+        display: none;
+    }
+    .proizvodstvo-page .work_solution_wrapper .solutin_info_grid .info_grid_count{
+        padding-bottom: 20px;
+    }
+    .proizvodstvo-page .work_solution_wrapper .solutin_info_grid .info_grid_text{
+        margin-top: 10px;
+        font-size: 15px;
+        line-height: 21px;
+    }
+    .proizvodstvo-page .work_solution_wrapper .solutin_info_grid::before{
+        transform: scale(0.55);
+    }
+    .box-owl-fot .fot-owl .item {
+        height: 445px !important;
+    }
+    .our-perpheps-page .line_banner {
+        background-position: 20% 0%;
+        background-size: 250%;
+    }
+    .our-perpheps-page .peherps_count {
+        font-size: 32px;
+    }
+    .our-perpheps-page .peherps_border {
+        width: 40px;
+        height: 1px;
+    }
+    .our-perpheps-page .peherps_grid_wrapper {
+        gap: 30px 12px;
+    }
+    .our-perpheps-page .peherps_title {
+        font-size: 14px !important;
+    }
+    .our-perpheps-page .peherps_desc p {
+        font-size: 8px;
+        line-height: 10px;
+        margin-top: 10px;
+    }
+    .our-perpheps-page .peherps_desc {
+        margin-top: 10px;
+    }
+    .our-perpheps-page .preim .block-title {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .our-perpheps-page .text-block {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .our-perpheps-page .preim .content-block {
+        padding: 0 8px;
+    }
+    .our-perpheps-page .preim .block-title {
+        margin-bottom: 10px;
+    }
+    .our-perpheps-page .preim .grid {
+        gap: 10px;
+    }
+    .our-perpheps-page .preim .content-block {
+        height: auto;
+        min-height: 190px;
+    }
+    .our-perpheps-page .preim .svg-item {
+        width: 50px;
+        height: 50px;
+    }
+    .our-perpheps-page .grid-item.red {
+        overflow: hidden;
+    }
+    .our-perpheps-page .content-block .grid-logo {
+        width: 116%;
+        height: 138%;
+    }
+    .our-perpheps-page .content-block .grid-logo {
+        width: 120%;
+        height: 140%;
+        right: -65px;
+        bottom: -60px;
+    }
+    .delivery-page .content_title h2 {
+        font-size: 25px;
+        line-height:30px;
+    }
+    .delivery-page .content_title h2 span {
+        font-size: 25px;
+        line-height:30px;
+    }
+    .delivery-page .content_title h2 span br{
+        display: block !important;
+    }
+    .delivery-page .delivery_count {
+        font-size: 16px;
+        border-radius: 6px;
+        width: 30px;
+        height: 30px;
+    }
+    .delivery-page .delivery_grid_item {
+        padding: 15px 9px;
+        width: calc(50% - 23px);
+        height: auto;
+    }
+    .delivery-page .grid-desc {
+        margin-top: 10px;
+        font-size: 11px !important;
+        line-height: 16px;
+    }
+    .delivery-page .delivery_grid_wrapper.deliv {
+        gap: 10px;
+        margin-top: 20px;
+    }
+    .delivery-page .delivery_grid_item:nth-last-child(-n+2){
+        width: 100%;
+    }
+    .delivery-page .delivery_grid_item.red {
+        width: calc(100% - 40px);
+        margin-top: -40px;
+        margin-bottom: 40px;
+    }
+    .delivery-page .delivery_wrapper-dostavka {
+        padding-bottom: 40px;
+    }
+    .about-page .about-info {
+        margin-top: 0;
+        padding-bottom: 20px;
+    }
+    .about-info .about-title h2 {
+        font-size: 25px;
+        line-height: 30px;
+        padding-top: 0;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .about-page .abb .about-text p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 15px;
+    }
+    .about-page .card-about-item.one {
+        padding: 20px 8px 12px 8px;
+    }
+    .about-page .card-about-item h2 {
+        font-size: 13px;
+        line-height: 13px;
+    }
+    .about-page .card-about-item p {
+        font-size: 8px;
+        line-height: 10px;
+        margin-top: 8px;
+    }
+    .about-page .card-about-item.one img {
+        width: 75%;
+    }
+    .about-page .box-about, .about-page .card-about-left {
+        gap: 10px;
+    }
+    .about-page .card-about-item.two, .about-page .card-about-item.three {
+        width: calc(50% - 21px) !important;
+        padding: 35px 8px 12px 8px;
+    }
+    .about-page .card-about-item.two::before, .about-page .card-about-item.two img {
+        width: 45%;
+        height: 50%;
+        top: 0;
+        left: 45%;
+        transform: inherit;
+    }
+    .about-page .card-about-item.three::before, .about-page .card-about-item.three img {
+        width: 30%;
+        height: 45%;
+        top: 3px;
+        left: 60%;
+        transform: inherit;
+    }
+    .about-page .card-about-right h2 {
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .about-page .card-about-right h2 br{
+        display: none;
+    }
+    .about-page .card-about-right {
+        padding: 20px 8px 11px 8px;
+    }
+    .about-page .card-about-right {
+        width: calc(100% - 16px);
+    }
+    .about-page .card-about-right p {
+        font-size: 8px;
+        line-height: 10px;
+        margin-top: 10px;
+    }
+    .card-about-right__image {
+        width: 40%;
+        height: 80%;
+        background-size: cover;
+        top: 20%;
+        left: inherit;
+        right: -25px;
+        transform: none;
+    }
+    .about-page .about-info .about-title h2 span br{
+        display: none;
+    }
+    .about-page .mob .about-title-text p {
+        font-size: 15px;
+        line-height: 20px;
+        padding-top: 10px;
+    }
+    .about-page .about-description-img {
+        height: 220px;
+        border-radius: 20px;
+        min-width: inherit;
+        margin-bottom: 10px;
+    }
+    .about-page .about-info .about-title h2 {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .about-page .about-info .about-title h2 span {
+        font-size: 24px;
+        line-height: 29px;
+    }
+    .about-page .about-info-dop .about-description li {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .about-page .about-info-dop .about-title-block {
+        gap: 0;
+    }
+    .about-page .about-info .about-title h2.red-h2{
+        margin-top: 40px;
+    }
+    .about-page .about-info-dop .about-title h2.red-h2{
+        margin-top: 0;
+    }
+    .about-page .about-bbx{
+        overflow: hidden;
+        position: relative;
+    }
+    .about-page .about-description::before {
+        width: 160%;
+        height: 140%;
+        left: -80px !important;
+        margin-top: -140px;
+        transform: scale(0.6);
+    }
+    .main_slider .slider_link {
+        font-size: 12px;
+    }
+    .main_slider {
+        height: inherit;
+    }
+    .main_slider .item .item-inner:last-child .slider_img img{
+        height: 285px;
+    }
+    .slider_content_wrapper{
+        padding-bottom: 0px;
+    }
+    .main_slider.owl-carousel .owl-nav button.owl-next svg, .main_slider.owl-carousel .owl-nav button.owl-prev svg {
+        width: 40px;
+        height: 85px;
+    }
+    .main_slider .item .item-inner:first-child .slider_img {
+        height: 180px;
+    }
+    .main_slider .item .item-inner:nth-child(2) .slider_img {
+        height: 180px;
+    }
+    .main_slider .item .item-inner:last-child .slider_img {
+        height: 285px;
+    }
+    .frezer-about-info-dop .about-title-block {
+        gap: 10px;
+    }
+    .drob_solutin_wrapper{
+        background-attachment: inherit;
+    }
+}
+@media (max-width: 375.9px){
+    .work_wrapper {
+        gap: 30px 5px;
+    }
+    .sverlenie::before{
+        width: 300px;
+        transform: scale(1.55);
+        top: 14.6%;
+    }
+}
