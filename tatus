@@ -1,0 +1,101 @@
+commit 612aae8d6529da14267db5b2770b3b8d672d7992 (HEAD -> marsel, origin/ilshat, ilshat)
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 17:18:50 2024 +0300
+
+    Фрезерная
+
+commit 2b30b4a57db1db4ffdd4bd3a76afac203adf313d
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 15:54:01 2024 +0300
+
+    Правки по главной странице и странице металла
+
+commit 5505f5d4b587949bddd0f43722829ebed7dfd059
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 14:19:26 2024 +0300
+
+    О компании
+
+commit cd0ab47dfbee55ab835135695f1032e17c0b7c41
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 13:48:58 2024 +0300
+
+    Заголовки h2
+
+commit 6253825ae9ac144e6da296e6eee40cb91ecd04f1
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 01:10:13 2024 +0300
+
+    Новые правки
+
+commit 98a0233cb624d40231c65b1537873137be52b7ce
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Fri May 31 00:02:00 2024 +0300
+
+    Добавление новых страниц
+
+commit b1220266109281062bb2eb6c2e3c164cc163d495
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 22:14:53 2024 +0300
+
+    Создание недостающих страниц
+
+commit 573a1134c6bfc36bcd2a85711ed67876759ef315
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 19:09:37 2024 +0300
+
+    Слесарные работы
+
+commit 03ab75d863ef954f44394a7a5577cb84bcbec44a
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 18:22:53 2024 +0300
+
+    блок дополнительные услуги
+
+commit a4b9bf94c89293210a38fa14a14e61a0e2aeb1d4
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 16:36:29 2024 +0300
+
+    Дополнительные услуги
+
+commit 796b126cddda51716753b8f1f2ce0058c9287434
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 14:30:29 2024 +0300
+
+    Фрезерная страница
+
+commit 82aae837efc6828df03ef7f9e22f1d63c07dc43f
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 14:04:30 2024 +0300
+
+    корректировки по таблице
+
+commit c26f453ed8b18cb12e90557ed3913c2ec8e05b25
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 12:10:36 2024 +0300
+
+    Начало адаптации лазерной резки
+
+commit 528146f75f9406a66d0568896e63b9b1b43f8d1b
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 01:40:16 2024 +0300
+
+    Доработка страницы лазерной резки
+
+commit 0d00bd8af7927da96e85ef95a595c13a07fb4557
+Author: Ильшат Чанышев Римович <chanys@yandex.ru>
+Date:   Thu May 30 00:40:15 2024 +0300
+
+    начало лазерной резки
+
+commit 7214fd37135087f798cddb40282ee6bda316f5ae (origin/main, origin/HEAD, main)
+Author: Anton Plashkevich <39991799+aguwicka@users.noreply.github.com>
+Date:   Wed May 29 21:04:32 2024 +0200
+
+    add assets
+
+commit f4cc607669e5cb0fee119a36a51cdefb69a27641
+Author: Anton Plashkevich <39991799+aguwicka@users.noreply.github.com>
+Date:   Wed May 29 20:58:31 2024 +0200
+
+    Add files via upload
